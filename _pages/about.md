@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bio"
+title: "Roham's Page"
 author_profile: true
 redirect_from: 
   - /about/
