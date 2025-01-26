@@ -11,15 +11,15 @@ I am a senior undergraduate student at the University of California, San Diego, 
 
 I have had the privilege of contributing to cutting-edge research across multiple esteemed labs at several academic institutions. More information about these experiences, along with my entrepreneurial endeavors, can be found in my CV or below.
 
-At UC San Diego's McAuley Lab (CSE Department), I first-authored and led the development of TetrisBench, a dataset designed to evaluate vision-language models on spatial fit, uncovering several significant visual reasoning gaps.
+• At UC San Diego's McAuley Lab (CSE Department), I first-authored and led the development of TetrisBench, a dataset designed to evaluate vision-language models on spatial fit, uncovering several significant visual reasoning gaps.
 
-At MIT CSAIL's Spoken Language Systems Lab, I played a key role in the Neural Codec Resynthesis project, designing large-scale listening experiments for subjective evaluations.
+• At MIT CSAIL's Spoken Language Systems Lab, I played a key role in the Neural Codec Resynthesis project, designing large-scale listening experiments for subjective evaluations.
 
-At UC San Diego's Adaptive Computing and Embedded Systems (ACES) Lab (ECE Department), I collaborated with Ph.D. students on the EveGuard project, enhancing privacy in speech recognition systems through adversarial robustness techniques.
+• At UC San Diego's Adaptive Computing and Embedded Systems (ACES) Lab (ECE Department), I collaborated with Ph.D. students on the EveGuard project, enhancing privacy in speech recognition systems through adversarial robustness techniques.
 
-At UC San Diego's Hu Lab (Halıcıoğlu Data Science Institute), I explored large language model-driven procedural generation techniques in Unreal Engine to create scalable 3D city environments for autonomous system simulations.
+• At UC San Diego's Hu Lab (Halıcıoğlu Data Science Institute), I explored large language model-driven procedural generation techniques in Unreal Engine to create scalable 3D city environments for autonomous system simulations.
 
-I am currently leading another project within UC San Diego's CSE Department, focusing on evaluating multimodal models' ability to reason from different visual perspectives, uncovering a large gap in their capabilities.
+• I am currently leading another research project within UC San Diego's CSE Department, focusing on evaluating multimodal models' ability to reason from different visual perspectives, uncovering a large gap in their capabilities and developing a model.
 
 Publications
 ======
