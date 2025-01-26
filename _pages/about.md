@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student at the University of California, San Diego, majoring in Data Science. My research explores multimodal reasoning, vision-language models, and adversarial machine learning. 🤖
+I am a senior undergraduate student at the University of California, San Diego, majoring in Data Science. My research explores multimodal reasoning, vision-language models, and adversarial machine learning. 
 
 I have had the privilege of contributing to cutting-edge research across multiple esteemed labs at several academic institutions. More information about these experiences, along with my entrepreneurial endeavors, can be found in my CV or below.
 
