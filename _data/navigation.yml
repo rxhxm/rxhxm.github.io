@@ -8,9 +8,6 @@ main:
   # - title: "Publications"
   #   url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
   # - title: "Teaching"
   #   url: /teaching/    
     
@@ -21,7 +18,10 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://drive.google.com/file/d/176qzfROa-4kHcD09GqV5xNqUQ5LuDpfl/view?usp=sharing
+
+  - title: "Talks"
+    url: /talks/    
     
   # - title: "Guide"
   #   url: /markdown/
