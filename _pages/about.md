@@ -21,7 +21,6 @@ Additionally, I founded RAZI, an organization that provides data-driven marketin
 
 Publications
 ======
-## Publications
 - **[TetrisBench: A Spatial Fit Benchmark for Vision-Language Models](https://rxhxm.github.io/TetrisBench/)**  
   Submitted to CVPR 2025  
   **Roham Mehrabi**, Tianyang Liu, Lei Zhang, Julian McAuley
@@ -30,10 +29,20 @@ Publications
   **Alexander H. Liu**, Yuan Gong, **Roham Mehrabi**, James R. Glass  
   A [revised version](https://arxiv.org/abs/2410.22448) was later released, replacing my co-author credit with an acknowledgment.
 
-  
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
+------
+Blogs
+======
+- **[Spatial Reasoning in AI: How Autonomous Vehicles and Robots See the World](https://medium.com/@roham.meh/spatial-reasoning-in-ai-how-autonomous-vehicles-and-robots-see-the-world-4ca37e12df4c?source=user_profile_page---------0-------------ecacea291355---------------)**  
+  *Oct 1, 2024*  
+  This article explores how autonomous vehicles and robots perceive and understand their environments through spatial reasoning.
+
+- **[Adversarial Attacks in AI: How ChatGPT Can Be Hacked](https://medium.com/@roham.meh/adversarial-attacks-in-ai-how-chatgpt-can-be-hacked-2f605e000342?source=user_profile_page---------1-------------ecacea291355---------------)**  
+  *Sep 20, 2024*  
+  This article examines the subtle manipulations known as adversarial attacks that can deceive AI systems like ChatGPT into making incorrect predictions or outputs.
+
+- **[Vision-Language Models: The AI That’s Learning to See and Speak](https://medium.com/@roham.meh/what-are-vision-language-models-vlms-the-ai-thats-learning-to-see-and-speak-f4169f148136?source=user_profile_page---------2-------------ecacea291355---------------)**  
+  *Sep 16, 2024*  
+  This article provides an overview of vision-language models (VLMs) and their significance in the field of AI, discussing how these models integrate visual and textual information.
 ------
 For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
