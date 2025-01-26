@@ -28,9 +28,8 @@ Publications
 - **[A Closer Look at Neural Codec Resynthesis: Bridging the Gap Between Codec & Waveform Generation](https://drive.google.com/file/d/1w74EMjgXiQyzofJ_YxM5THqzTGZX2HkU/view?usp=sharing)**  
   **Alexander H. Liu**, Yuan Gong, **Roham Mehrabi**, James R. Glass  
   A [revised version](https://arxiv.org/abs/2410.22448) was later released, replacing my co-author credit with an acknowledgment.
-======
 
-------
+
 Blogs
 ======
 - **[Spatial Reasoning in AI: How Autonomous Vehicles and Robots See the World](https://medium.com/@roham.meh/spatial-reasoning-in-ai-how-autonomous-vehicles-and-robots-see-the-world-4ca37e12df4c?source=user_profile_page---------0-------------ecacea291355---------------)**  
@@ -39,11 +38,11 @@ Blogs
 
 - **[Adversarial Attacks in AI: How ChatGPT Can Be Hacked](https://medium.com/@roham.meh/adversarial-attacks-in-ai-how-chatgpt-can-be-hacked-2f605e000342?source=user_profile_page---------1-------------ecacea291355---------------)**  
   *Sep 20, 2024*  
-  This article examines the subtle manipulations known as adversarial attacks that can deceive AI systems like ChatGPT into making incorrect predictions or outputs.
+  This article talks about the subtle manipulations known as adversarial attacks that can deceive AI systems like ChatGPT into making incorrect predictions or outputs.
 
 - **[Vision-Language Models: The AI That’s Learning to See and Speak](https://medium.com/@roham.meh/what-are-vision-language-models-vlms-the-ai-thats-learning-to-see-and-speak-f4169f148136?source=user_profile_page---------2-------------ecacea291355---------------)**  
   *Sep 16, 2024*  
-  This article provides an overview of vision-language models (VLMs) and their significance in the field of AI, discussing how these models integrate visual and textual information.
+  This article provides an overview of vision-language models and their significance in the field of AI, discussing how these models integrate visual and textual information.
 
 
 
