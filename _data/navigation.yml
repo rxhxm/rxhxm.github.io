@@ -20,8 +20,8 @@ main:
   - title: "CV"
     url: https://drive.google.com/file/d/176qzfROa-4kHcD09GqV5xNqUQ5LuDpfl/view?usp=sharing
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/    
     
   # - title: "Guide"
   #   url: /markdown/
