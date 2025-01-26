@@ -29,10 +29,6 @@ Publications
 
 - **[A Closer Look at Neural Codec Resynthesis: Bridging the Gap Between Codec & Waveform Generation](https://drive.google.com/file/d/1w74EMjgXiQyzofJ_YxM5THqzTGZX2HkU/view?usp=sharing)**  
   **Alexander H. Liu**, Yuan Gong, **Roham Mehrabi**, James R. Glass  
-  A [revised version](https://arxiv.org/abs/2410.22448) was later released, replacing my co-author credit with an acknowledgment.
-
-- **[A Closer Look at Neural Codec Resynthesis: Bridging the Gap Between Codec & Waveform Generation](https://drive.google.com/file/d/1w74EMjgXiQyzofJ_YxM5THqzTGZX2HkU/view?usp=sharing)**  
-  **Alexander H. Liu**, Yuan Gong, **Roham Mehrabi**, James R. Glass  
   A [revised version](https://arxiv.org/abs/2410.22448) was later released, replacing my co-author credit with an acknowledgment.  
   **Accepted to:** Audio Imagination: NeurIPS 2024 Workshop on AI-Driven Speech, Music, and Sound Generation
 
