@@ -7,14 +7,30 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a senior undergraduate student at the University of California, San Diego, majoring in Data Science. My research explores multimodal reasoning, vision-language models, and adversarial machine learning. 🤖
+
+I have collaborated with MIT’s Computer Science and Artificial Intelligence Lab (CSAIL) and UC San Diego’s Adaptive Computing and Embedded Systems (ACES) Lab on various research projects in these fields. I am passionate about applying research to enhance real-world applications, and I constantly seek new ways to leverage data science to drive innovation. 💡
+
+In addition to my academic pursuits, I have a strong entrepreneurial background, having co-founded multiple startups. I co-founded Dart.cx, where we developed a conversational AI phone agent to answer over 180 patient calls for medical clinics. 
+
+Prior to Dart.cx, I co-founded Socale, a social networking app that anonymously matches college students in the same class based on shared interests. The app garnered over 1,800 downloads, 13,000 messages, and 30,000 user sessions from UCSD students. 📱🚀
+
+Additionally, I founded RAZI, an organization that provides data-driven marketing strategies to startups and small businesses. I led a team of 47 students from universities such as UC Berkeley, UCLA, and UCI, and worked on marketing campaigns for startups valued at $3-7 million. Through RAZI, I also organized 36 workshops and hosted 7 prominent speakers in the entrepreneurial space. 🎯
+
+
 
 Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this 
+## Publications
+- **[TetrisBench: A Spatial Fit Benchmark for Vision-Language Models](https://rxhxm.github.io/TetrisBench/)**  
+  Submitted to CVPR 2025  
+  **Roham Mehrabi**, Tianyang Liu, Lei Zhang, Julian McAuley
 
-Site-wide configuration
+- **[A Closer Look at Neural Codec Resynthesis: Bridging the Gap Between Codec & Waveform Generation](https://drive.google.com/file/d/1w74EMjgXiQyzofJ_YxM5THqzTGZX2HkU/view?usp=sharing)**  
+  **Alexander H. Liu**, Yuan Gong, **Roham Mehrabi**, James R. Glass  
+  A [revised version](https://arxiv.org/abs/2410.22448) was later released, replacing my co-author credit with an acknowledgment.
+
+  
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
